@@ -1,0 +1,1 @@
+Proyecto para la materia de Sistemas Distribuidos. Se desarrolla una sistema distribuido que simule el funcionamiento de una aerolinea venezolana.
